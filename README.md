@@ -166,66 +166,36 @@ This Project is a modern e-commerce web application built with **Laravel 12**, *
 ## 📁 Project Structure
 
     app/
-
     ├── Http/
-
     │   ├── Controllers/
-
     │   │   ├── ProductController.php
-
     │   │   └── CartController.php
-
     │   └── Middleware/
-
     │       └── AdminMiddleware.php
-
     ├── Livewire/
-
     │   ├── LoginForm.php
-
     │   └── RegisterForm.php
-
     └── Models/
-
     ├── Product.php
-
     └── Cart.php
     resources/views/
-
     ├── components/
-
     │   ├── layouts/
-
     │   │   ├── app.blade.php
-
     │   │   └── auth.blade.php
-
     │   ├── product-card.blade.php
-
     │   └── hero.blade.php
-
     ├── livewire/
-
     │   ├── login-form.blade.php
-
     │   └── register-form.blade.php
-
     ├── welcome.blade.php
-
     ├── products.blade.php
-
     ├── product-detail.blade.php
-
     ├── cart.blade.php
-
     ├── profile.blade.php
-
     ├── contact.blade.php
-
     ├── about.blade.php
-
     └── admin/
-
     └── dashboard.blade.php
 
 ---
