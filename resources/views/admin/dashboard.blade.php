@@ -4,6 +4,7 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Admin Dashboard</title>
+        <script src="https://cdn.tailwindcss.com"></script>
 
         <style>
             :root{
@@ -490,7 +491,7 @@
         </div>
 
       {{-- Footer --}}
-      <footer class="text-center bg-blue-700 text-white py-6 mt-0">
+      <footer class="text-center bg-blue-700 text-white py-4 mt-0">
         <p class="text-sm">&copy; 2025  eComm Solutions | Developed by <a href="https://github.com/souparnadey" target="_blank" class="hover:underline">Souparna Dey</a> | All Rights Reserved.</p>
       </footer>
 

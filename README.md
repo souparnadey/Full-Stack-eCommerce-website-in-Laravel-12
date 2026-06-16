@@ -46,6 +46,12 @@ This Project is a modern e-commerce web application built with **Laravel 12**, *
 ### Admin Homepage
 ![Admin View](screenshots/admin-view.png)
 
+### Login Page
+![Admin View](screenshots/login.png)
+
+### Registration Page
+![Admin View](screenshots/register.png)
+
 ### Banners & Product Advertising
 ![Banners](screenshots/banners&products-ad.png)
 
@@ -95,17 +101,14 @@ This Project is a modern e-commerce web application built with **Laravel 12**, *
 ### 🏠 Home Page
 - Hero banner with CTA
 - Sale announcement banners and video section
-- Featured Skin Care & Men's Grooming sections
+- Various featured products section
 - Clickable sale banner
 - "Why Choose Us" section
 - Brand footer with logo
 
 ### 🔐 Authentication
 - Livewire-powered Login & Registration forms
-- Show/hide password toggle
-- Remember me checkbox
 - Role-based redirect after login
-- Glassmorphism UI with full-page background
 - Registration success page
 
 ### 🛡️ Admin Panel
@@ -122,11 +125,9 @@ This Project is a modern e-commerce web application built with **Laravel 12**, *
 
 ### 🎨 UI & Design
 - Tailwind CSS throughout; Bootstrap 5 for auth pages
-- Custom Google Font — *Bitcount Single* for brand logo
-- Gradient buttons with hover transition effects
+- Custom Google Font for brand logo
+- Products-cards & Gradient buttons with hover transition effects
 - Responsive product grid (1 → 2 → 3 columns)
-- Hover lift effects on product cards
-- Consistent blue footer across all pages
 
 ---
 
@@ -296,5 +297,7 @@ This project is **[MIT Licensed](LICENSE)** — free to use and modify!
 </div>
 
 ---
+> Also Checkout the Complete & More Advanced [eCommerce Web Application Platform](https://github.com/souparnadey/Complete-eCommerce-Web-Application-in-Laravel)
+
 
 > Find me on:  [GitHub](https://github.com/souparnadey/) &nbsp;&middot;&nbsp; [LinkedIn](https://linkedin.com/in/souparna-dey-69a701285/) &nbsp;&middot;&nbsp; [Instagram](https://instagram.com/i_am_souparna/) &nbsp;&middot;&nbsp; 
