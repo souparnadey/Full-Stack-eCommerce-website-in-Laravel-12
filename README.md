@@ -2,7 +2,7 @@
 
 <img src="public/images/logo2.png" alt="eCom Logo" width="80"/>
 
-# Full-Stack eCommerce Website in Laravel 12
+# eCommerce Website in Laravel 12
 ### A Modern Full-Stack E-Commerce Platform Built with Laravel 12
 
 [![MIT License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
@@ -188,8 +188,8 @@ This Project is a modern e-commerce web application built with **Laravel 12**, *
 
 ### Step 1: Clone the Repository
 ```sh
-git clone https://github.com/souparnadey/Full-stack-eCommerce-Website-in-Laravel-12
-cd Full-stack-eCommerce-Website-in-Laravel-12
+git clone https://github.com/souparnadey/eCommerce-Website-in-Laravel-12
+cd eCommerce-Website-in-Laravel-12
 ```
 
 ### Step 2: Install Dependencies
