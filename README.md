@@ -131,23 +131,6 @@ This Project is a modern e-commerce web application built with **Laravel 12**, *
 
 ---
 
-## 🗄️ Database Schema
-
-**Table: `products`**
-
-| Column | Type | Description |
-|---|---|---|
-| id | INT (PK) | Auto increment |
-| name | VARCHAR | Product name |
-| image | TEXT | Comma-separated image paths |
-| description | TEXT | Product description |
-| price | DECIMAL | Product price |
-| stock | INT | Available stock |
-| created_at | TIMESTAMP | — |
-| updated_at | TIMESTAMP | — |
-
----
-
 ## 🧰 Tech Stack
 
 | Layer | Technology |
@@ -160,7 +143,7 @@ This Project is a modern e-commerce web application built with **Laravel 12**, *
 | Sessions | Database driver |
 | Assets | Vite |
 | Icons | Bootstrap Icons |
-| Fonts | Google Fonts (Bitcount Single) |
+| Fonts | Google Fonts |
 
 ---
 
@@ -231,7 +214,7 @@ DB_PASSWORD=
 ```sh
 php artisan migrate --seed
 ```
-> If migration fails, manually import `database/ecom.sql` via phpMyAdmin.
+> If migration fails, manually import `database/ecom_db.sql` via phpMyAdmin.
 
 ### Step 5: Storage Link
 ```sh
@@ -288,16 +271,12 @@ This project is **[MIT Licensed](LICENSE)** — free to use and modify!
 
 ---
 
-<div align="center">
-
 ⭐ **If you found this project helpful, please give it a star!** ⭐
 
 **Thank you ☺️**
 
-</div>
-
 ---
-> Also Checkout the Complete & More Advanced [eCommerce Web Application Platform](https://github.com/souparnadey/Complete-eCommerce-Web-Application-in-Laravel)
+> Also Checkout my Complete & More Advanced [eCommerce Web Application Platform](https://github.com/souparnadey/Complete-eCommerce-Web-Application-in-Laravel)
 
 
 > Find me on:  [GitHub](https://github.com/souparnadey/) &nbsp;&middot;&nbsp; [LinkedIn](https://linkedin.com/in/souparna-dey-69a701285/) &nbsp;&middot;&nbsp; [Instagram](https://instagram.com/i_am_souparna/) &nbsp;&middot;&nbsp; 
